@@ -18,7 +18,7 @@ export default [
       { file: pkg.main, format: "cjs" },
       { file: pkg.module, format: "es" },
       {
-        name: "howLongUntilLunch",
+        name: "TampermonkeyUtils",
         file: pkg.browser,
         format: "umd",
       },
